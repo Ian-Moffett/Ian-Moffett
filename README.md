@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ian-Moffett
+- 👀 I’m interested in low level programming.
+- 🌱 I’m currently learning OSDev.
+- 💞️ I’m looking to collaborate on low level stuff.
+- 📫 How to reach me ian@kesscoin.com or teaqllabs@gmail.com
